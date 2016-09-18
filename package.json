@@ -1,0 +1,20 @@
+{
+  "name": "imageprocess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gs",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^0.30.0",
+    "gm": "^1.23.0",
+    "gm-base64": "^1.0.0",
+    "node-base64-image": "^1.0.1"
+  }
+}
